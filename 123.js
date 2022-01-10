@@ -14,3 +14,11 @@ const getCompany =()=>{
 
 }
  getCompany();
+ 
+var car={
+   id:1,
+   name: 'nexia',
+   color: 'black',
+   speed: '200',
+}
+
